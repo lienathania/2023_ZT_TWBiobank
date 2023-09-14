@@ -12,6 +12,7 @@ For the time being, it is recommend you to learn more about:
 
 The plan for now is to recreate the webtool page 01 that I have written here (http://140.122.185.208/~lienathania/SinicaProj/Page01_DiseaseDistribution_ver4/)
 Breakdown of the page01 webtool
+
   - Bar chart (https://d3-graph-gallery.com/barplot.html)
       - Sort by highest to lowest
       - Sort by high to low and also by groups
@@ -40,4 +41,5 @@ Due to the confidentiality regarding this dataset, I will only post **toy datase
 If there is anything you need from me please let me know, I'll be happy to help
 
 Sincerely,
+
 Tia

@@ -5,12 +5,12 @@ Anything related to this 專題 will be posted here. For more important document
 Please ask me for the password if you need to access the file.
 
 ## ---9/13---
-The plan for now is to recreate the webtool page 01 that I have written here (http://140.122.185.208/~lienathania/SinicaProj/Page01_DiseaseDistribution_ver4/)
 
-For the time being, I recommend you to learn more about:
+For the time being, it is recommend you to learn more about:
   1) Data preprocessing (pandas)
   2) Data visualization (basic D3)
 
+The plan for now is to recreate the webtool page 01 that I have written here (http://140.122.185.208/~lienathania/SinicaProj/Page01_DiseaseDistribution_ver4/)
 Breakdown of the page01 webtool
   - Bar chart (https://d3-graph-gallery.com/barplot.html)
       - Sort by highest to lowest

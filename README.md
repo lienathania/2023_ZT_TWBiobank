@@ -13,6 +13,7 @@ For the time being, it is recommend you to learn more about:
 The plan for now is to recreate the webtool page 01 that I have written here (http://140.122.185.208/~lienathania/SinicaProj/Page01_DiseaseDistribution_ver4/)
 
 Breakdown of the page01 webtool
+
 First, filter the dataset we're only using BASELINE data (people 1st time checking) and we're not going to use any FOLLOW UP data
   - Bar chart (https://d3-graph-gallery.com/barplot.html)
 

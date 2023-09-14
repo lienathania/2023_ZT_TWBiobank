@@ -15,6 +15,9 @@ The plan for now is to recreate the webtool page 01 that I have written here (ht
 Breakdown of the page01 webtool
 First, filter the dataset we're only using BASELINE data (people 1st time checking) and we're not going to use any FOLLOW UP data
   - Bar chart (https://d3-graph-gallery.com/barplot.html)
+
+      **We don't count the family members in this bar so only count _SELF**
+    
       - Sort by highest to lowest
       - Sort by high to low and also by groups
       - Normalized the bars

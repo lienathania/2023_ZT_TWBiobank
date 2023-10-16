@@ -4,6 +4,8 @@
 Anything related to this 專題 will be posted here. For more important documents that are confidential will be locked with a password.
 Please ask me for the password if you need to access the file.
 
+Note: The confidentiality and any other issues regarding the dataset will be discussed thoroughly with the Professor and the real dataset, whole or in parts, will never be posted online.
+
 ## ---9/13---
 
 For the time being, it is recommend you to learn more about:
@@ -41,6 +43,26 @@ First, filter the dataset we're only using BASELINE data (people 1st time checki
 You don't have to make exactly what I did. If when you explore the dataset, you feel like you want to try something else also no problem.
 
 Due to the confidentiality regarding this dataset, I will only post **toy dataset** here (the columns will be real but the values will be randomized). If there are any changes in the rules or more flexibility I will let you know. 
+
+## ---10/13---
+The logic flow of this project is:
+1. We have the Taiwan Biobank Dataset
+2. Due to the different type of information in the dataset, users might find it hard to find any patterns from the dataset
+3. We create a tool that will help make it easier for users to find pattern
+(It is not impossible to find patterns from the dataset without using our tool, the aim to create a tool is just to make it easier and save more time)
+
+Big goal (the whole project): Create a tool to help find hidden patterns from the dataset
+
+Small goals:
+1. Using simple methods, some examples:
+   - Find disease distribution (which disease is more commonly found in Taiwan?)
+   - Find gender distribution in disease (are there more male or female people with Diabetes?)
+   - Find disease distribution in different location (are gout more likely to be found in the northern part of Taiwan?)
+2. Using more complicated methods,
+   we acknowledge that there are limitation when only using simple methods. For more in-depth questions (Example: What eating habits have a high influence on people getting Hypertension?) it is necessary for us to have a more compicated methods, because of that in the near future, when we're done with the preliminary studies the next steep will me to use a more complex methods like:
+   - Correlation value
+   - Dimension reduction
+   - Machine learning/deep learning
 
 ---
 If there is anything you need from me please let me know, I'll be happy to help

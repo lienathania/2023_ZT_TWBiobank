@@ -45,6 +45,8 @@ Make sure your ppt have :
 1. Answers for the previous questions the profesors asked during presentation
 2. Some literature (just talk about it fast)
 
+Next meeting 12/13 17.00 discuss both data vis and zhuanti
+
 ## ---10/13---
 The logic flow of this project is:
 1. We have the Taiwan Biobank Dataset
